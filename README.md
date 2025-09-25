@@ -34,11 +34,11 @@ I keep some side projects here - so far, a DSP integration framework, and more t
 
 ## 📊 GitHub Stats
 
-![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=seb-nyc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seb-nyc&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=seb-nyc&theme=dark&hide_border=true&background=0D1117)
 
 ![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat-square)
 
