@@ -34,7 +34,7 @@ I keep some side projects here - so far, a DSP integration framework, and more t
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=seb-nyc)](https://github.com/FajarKim/github-readme-profile)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=seb-nyc)]
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seb-nyc&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
